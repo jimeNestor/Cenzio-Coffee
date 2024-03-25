@@ -13,9 +13,9 @@ Coffeeshop is a coffee ordering app. It features the basic functionalities of an
 
 ## Project Roadmap
 
-- [x] Generate the project and add source control
-- [x] Initial assets / appicon / launchscreen
-- [x] Connect with Firebase
+- [ ] Generate the project and add source control
+- [ ] Initial assets / appicon / launchscreen
+- [ ] Connect with Firebase
 - [ ] Drink List View
 - [ ] Drink Detail View
 - [ ] Checkout View
